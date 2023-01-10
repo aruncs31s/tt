@@ -4,7 +4,7 @@
 
 ```
 
-sin(π*i) = i*sin(h*π)
+sin(π*i) = i*sinh(π)
 
 ```
 
