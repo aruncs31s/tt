@@ -28,6 +28,18 @@ sin(-x) = -sin(x)
 
 ## Arun's Maths 
 
-- 0 * ∞ = 1 [proof](#)
+- 0 * ∞ = 1 [proof](#proof)
 
+### Proof
+
+1. *any number times infinity equals infinity*
+     *Any number ? What if the number is 0 ?*
+
+2. *0 multiplied by any number ie, zero times any number is equal to zero*
+     *any number? what if  the number is infinity ?*
+
+> Considering 1 and 2 
+> 0 * ∞ = lies between 0 and infinity(∞)
+*what lies between 0 and infinity?* 
+> it is 1 
 
