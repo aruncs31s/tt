@@ -60,7 +60,7 @@ If that happens in the future or this have a chance of happening then
 - 0/0 = 1 
 
 
-### 1  Proof
+### 1 Proof
 
 1. *any number times infinity equals infinity*
      *Any number ? What if the number is 0 ?*
