@@ -26,8 +26,14 @@ sin(-x) = -sin(x)
 
 -->
 
+
+### This repo is just for fun or just to overthink
+
+
+
 - [Quantum Mechanics]()
      - [Big Bang](#big-bang)
+- [Maths](#maths)
 
 
 ### Big bang
