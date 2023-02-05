@@ -26,6 +26,27 @@ sin(-x) = -sin(x)
 
 -->
 
+- [Quantum Mechanics]()
+     - [Big Bang](#big-bang)
+
+
+### Big bang
+
+
+![Big bang](https://github.com/aruncs31s/twisted-thoughts/blob/main/a-diagram-illustrating-the-expansion-of-the-universe-following-the-C0DMG6.jpg?raw=true)
+
+? If the `expansion` stops or get weaker the gravity will act & the universe will start to recollapse 
+
+*Considering distance btw the stars is less that the graviry will act ie F = Gm1m2/r^2  ie F ∝ r^-1*
+
+If that happens in the future or this have a chance of happening then
+1. We should have existed long time ago ie, humans , technology 
+2. This Is a Continues process ie begening then  end then Begining there for 
+     *? where really is the beginning*
+          
+
+**Do your research**
+
 ## Arun's Maths 
 
 - 0 * ∞ = 1 [proof](#proof)
