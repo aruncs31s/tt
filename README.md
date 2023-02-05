@@ -55,7 +55,7 @@ If that happens in the future or this have a chance of happening then
 
 ## Arun's Maths 
 
-- 0 * ∞ = 1 [proof](#proof)
+- 0 * ∞ = 1 [proof](#1-proof)
 
 - 0/0 = 1 
 
