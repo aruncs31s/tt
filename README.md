@@ -55,12 +55,33 @@ If that happens in the future or this have a chance of happening then
 
 ## Arun's Maths 
 
-- 0 * ∞ = 1 [proof](#1-proof)
+- 0 * ∞ = 1 [proof](#1.1-proof)
 
 - 0/0 = 1 
 
 
-### 1 Proof
+### 1.1 Proof
+
+Considering an inifinty 1/0 
+
+```
+if 1/0 = ∞
+ 0^(-1) = ∞
+```
+also considering `x * x(inverse) = 1
+
+there for
+
+```
+0 * 1/0 = 1 
+```
+ie ,
+
+```
+0 * ∞ = 1 
+```
+
+### 1.2 Proof
 
 1. *any number times infinity equals infinity*
      *Any number ? What if the number is 0 ?*
@@ -74,6 +95,7 @@ If that happens in the future or this have a chance of happening then
 > it is 1 
 
 ---
+this is more of a concept than a proof
 
 ### 2 Proof
 
