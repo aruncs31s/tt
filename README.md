@@ -27,7 +27,7 @@ sin(-x) = -sin(x)
 -->
 
 
-### This repo is just for fun or just to overthink
+### This repo is just for<details> <summary> fun </summary> No i am dead serious</details> 
 
 
 
@@ -52,6 +52,9 @@ If that happens in the future or this have a chance of happening then
           
 
 **Do your research**
+
+## Maths
+
 
 ## Arun's Maths 
 
