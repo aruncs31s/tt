@@ -48,6 +48,7 @@ sin(-x) = -sin(x)
 particles in curved space](https://arxiv.org/pdf/0904.3412.pdf)
 
 - [Infinite Start](#infinite-start)
+- [THE ANIMATE AND THE INANIMATE WILLIAM JAMES SIDIS](https://github.com/aruncs31s/twisted-thoughts/blob/main/Books/THE%20ANIMATE%20AND%20THE%20INANIMATE%20WILLIAM%20JAMES%20SIDIS.pdf)
 
 
 
