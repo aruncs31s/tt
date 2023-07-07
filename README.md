@@ -26,6 +26,7 @@ sin(-x) = -sin(x)
 2. c1 and c2 must be a smooth curve & it is used when c is not a smooth curve but it can be split into 2 `smooth` curves like rectangles sides ⌈ ≫ | & - 
 
 -->
+<!--
 
 
 ### This repo is just for<details> <summary> fun </summary> No i am dead serious</details> 
